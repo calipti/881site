@@ -1,0 +1,206 @@
+div.¨content¨{
+  height:150px;
+  width:150px;
+  border:5px solid;
+  float:left;
+  margin:50px;
+}
+
+
+div#¨1¨{
+
+body {
+  background: linear-gradient(45deg,
+  #3f51b5, 
+  #7b1fa2, 
+  #e91e63, 
+  #ef5350, 
+  #23d5ab);
+  background-size: 10000vh;
+  animation: grad 20s infinite;
+  -webkit-animation: grad 20s infinite;
+}
+@keyframes grad {
+	0% {
+		background-position: 0% 0%;
+	}
+	50% {
+		background-position: 100% 0%;
+	}
+	100% {
+		background-position: 0% 0%;
+	}
+}
+/*dont mind this , just styling of h1*/
+h1{
+  color: white;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-size:80px;
+  font-weight:200;
+  text-align:center;
+}
+}
+
+div#¨2¨{
+body {
+  background: linear-gradient(45deg,
+  #3f51b5, 
+  #7b1fa2, 
+  #e91e63, 
+  #ef5350, 
+  #23d5ab);
+  background-size: 10000vh;
+  animation: grad 20s infinite;
+  -webkit-animation: grad 20s infinite;
+}
+@keyframes grad {
+	0% {
+		background-position: 0% 0%;
+	}
+	50% {
+		background-position: 100% 0%;
+	}
+	100% {
+		background-position: 0% 0%;
+	}
+}
+/*dont mind this , just styling of h1*/
+h1{
+  color: white;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-size:80px;
+  font-weight:200;
+  text-align:center;
+}
+}
+
+div#¨3¨{
+body {
+  background: linear-gradient(45deg,
+  #3f51b5, 
+  #7b1fa2, 
+  #e91e63, 
+  #ef5350, 
+  #23d5ab);
+  background-size: 10000vh;
+  animation: grad 20s infinite;
+  -webkit-animation: grad 20s infinite;
+}
+@keyframes grad {
+	0% {
+		background-position: 0% 0%;
+	}
+	50% {
+		background-position: 100% 0%;
+	}
+	100% {
+		background-position: 0% 0%;
+	}
+}
+/*dont mind this , just styling of h1*/
+h1{
+  color: white;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-size:80px;
+  font-weight:200;
+  text-align:center;
+}
+}
+
+div#¨4¨{
+body {
+  background: linear-gradient(45deg,
+  #3f51b5, 
+  #7b1fa2, 
+  #e91e63, 
+  #ef5350, 
+  #23d5ab);
+  background-size: 10000vh;
+  animation: grad 20s infinite;
+  -webkit-animation: grad 20s infinite;
+}
+@keyframes grad {
+	0% {
+		background-position: 0% 0%;
+	}
+	50% {
+		background-position: 100% 0%;
+	}
+	100% {
+		background-position: 0% 0%;
+	}
+}
+/*dont mind this , just styling of h1*/
+h1{
+  color: white;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-size:80px;
+  font-weight:200;
+  text-align:center;
+}
+}
+
+body {
+  background: linear-gradient(45deg,
+  #3f51b5, 
+  #7b1fa2, 
+  #e91e63, 
+  #ef5350, 
+  #23d5ab);
+  background-size: 10000vh;
+  animation: grad 20s infinite;
+  -webkit-animation: grad 20s infinite;
+}
+@keyframes grad {
+	0% {
+		background-position: 0% 0%;
+	}
+	50% {
+		background-position: 100% 0%;
+	}
+	100% {
+		background-position: 0% 0%;
+	}
+}
+/*dont mind this , just styling of h1*/
+h1{
+  color: white;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-size:80px;
+  font-weight:200;
+  text-align:center;
+}
+
+
+[data-tab-content] {
+  display: none;
+}
+
+.active[data-tab-content] {
+  display: block;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tab {
+  cursor: pointer;
+  padding: 10px;
+}
+
+
+
+.tab-content {
+  margin-left: 10px;
+  margin-right: 10px;
+}
